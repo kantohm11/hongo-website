@@ -3,18 +3,18 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+ja:
+  languageCode: ja
+  contentDir: content/ja
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Hongo Particle Physics Group
+  contentDir: content/en
+  params:
+    description: Particle Physics Group at Hongo Campus, the University of Tokyo
 #  menu:
 #    main:
 #      - name: 传
