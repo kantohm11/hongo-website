@@ -11,10 +11,10 @@ ja:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Hongo Particle Physics Group
+  title: University of Tokyo High Energy Physics Theory Group
   contentDir: content/en
   params:
-    description: Particle Physics Group at Hongo Campus, the University of Tokyo
+    description: High Energy Physics Theory Group at Hongo Campus, the University of Tokyo
 #  menu:
 #    main:
 #      - name: 传

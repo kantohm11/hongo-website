@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 東京大学本郷素粒子論研究室  # Website name
+baseURL: 'https://kantohm11.github.io/hongo-website/' # Website URL
 
 ############################
 ## LANGUAGE
